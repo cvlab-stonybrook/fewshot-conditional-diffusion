@@ -1,7 +1,7 @@
 # Conditional Generation from Unconditional Diffusion Models using Denoiser Representations
-Implementation of ["Conditional Generation from Unconditional Diffusion Models using Denoiser Representations"](https://arxiv.org/abs/2306.01900).
+Official code for BMVC 2023 publication ["Conditional Generation from Unconditional Diffusion Models using Denoiser Representations"](https://arxiv.org/abs/2306.01900).
 
-For segmentaton-guided generation, see [mask-guidance](./mask-guidance/).
+For segmentation-guided generation, see [mask-guidance](./mask-guidance/).
 
 For Tiny-Imagenet experiments, see [tiny-imagenet](./tiny-imagenet).
 
